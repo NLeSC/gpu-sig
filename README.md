@@ -12,6 +12,5 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
-| 2019-05-16 | Johan Hidding | Inline FFTs and code generators |
-| 2019-06-6 | Unknown | tbd |
 | 2019-06-27 | Unknown | tbd |
+| 2019-07-18 | Thom Visser (Student UvA) | Building Predictive Models for Optimal GPU Kernel Configurations |
