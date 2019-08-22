@@ -13,7 +13,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | Date | Presenter | Topic |
 |------|----------------|-------|
 | 2019-07-18 | Thom Visser (Student UvA) | Building Predictive Models for Optimal GPU Kernel Configurations |
-| 2019-08-29 | unknown | tbd |
+| 2019-08-29 | Ehsan Sharifi (Student VU) | Auto-tuning GPU Kernels for Energy Efficiency |
 | 2019-09-19 | Hanno Spreeuw | Self-calibration using SAGECal on an NVIDIA Jetson Nano |
 | 2019-10-10 | unknown | tbd |
 | 2019-10-31 | unknown | tbd |
