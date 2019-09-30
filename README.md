@@ -14,7 +14,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 |------|----------------|-------|
 | 2019-12-12 | presenter | tbd |
 | 2019-11-28 | presenter | tbd |
-| 2019-10-31 | Hanno Spreeuw | The demo continues ... |
+| 2019-10-31 | Hanno Spreeuw | Conclusions from running SAGECal on the Nano and Intel Xeon E5-2660v3|
 | 2019-10-10 | Ben van Werkhoven | best practices when benchmarking cuda applications |
 | 2019-09-19 | Hanno Spreeuw | Self-calibration using SAGECal on an NVIDIA Jetson Nano |
 | 2019-08-29 | Ehsan Sharifi (Student VU) | Auto-tuning GPU Kernels for Energy Efficiency |
