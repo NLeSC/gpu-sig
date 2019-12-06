@@ -12,7 +12,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
-| 2019-12-12 | presenter | tbd |
+| 2019-12-12 | Stijn Heldens | Highlights from Supercomputing 2019 |
 | 2019-11-14 | Ben van Werkhoven | Lessons learned in a decade of research software engineering GPU applications |
 | 2019-10-31 | Hanno Spreeuw | Conclusions from running SAGECal on the Nano and Intel Xeon E5-2660v3|
 | 2019-10-10 | Ben van Werkhoven | best practices when benchmarking cuda applications |
