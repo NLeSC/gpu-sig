@@ -8,7 +8,22 @@ If you would like to present or invite an external speaker, please feel free to 
 
 Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencecenter.nl)
 
-# Sessions
+# 2020 Sessions
+
+| Date | Presenter | Topic |
+|------|----------------|-------|
+| 2019-01-23 | tbd | tbd |
+| 2019-02-13 | tbd | tbd |
+| 2019-03-05 | tbd | tbd |
+| 2019-03-26 | tbd | tbd |
+| 2019-04-16 | tbd | tbd |
+| 2019-05-07 | tbd | tbd |
+| 2019-05-28 | tbd | tbd |
+| 2019-06-18 | tbd | tbd |
+| 2019-07-09 | tbd | tbd |
+| 2019-07-30 | tbd | tbd |
+
+# 2019 Sessions
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
