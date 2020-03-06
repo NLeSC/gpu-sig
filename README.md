@@ -14,8 +14,8 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 |------|----------------|-------|
 | 2019-01-23 | Merijn Verstraaten | Futhark: a Functional Array Language |
 | 2019-02-13 | Felipe Zapata | An Eigen-Cuda interface for Tensor-matrix multiplications |
-| 2019-03-05 | tbd | tbd |
-| 2019-03-26 | tbd | tbd |
+| 2019-03-05 | Ben van Werkhoven | New features in CUDA |
+| 2019-03-26 | Alessio Sclocco | GPU workshops/hackatons/trainings |
 | 2019-04-16 | tbd | tbd |
 | 2019-05-07 | tbd | tbd |
 | 2019-05-28 | tbd | tbd |
