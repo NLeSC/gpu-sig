@@ -18,9 +18,9 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2020-03-26 | Alessio Sclocco | GPU workshops/hackatons/trainings |
 | 2020-04-16 | meeting cancelled |  |
 | 2020-05-07 | Ben van Werkhoven | Auto-tuning research update |
-| 2020-05-28 | tbd | tbd |
+| 2020-05-28 | Alessio Sclocco | News roundup |
 | 2020-06-18 | tbd | tbd |
-| 2020-07-09 | tbd | tbd |
+| 2020-07-09 | Sagar Dolas (Surf) | The future of Supercomputing |
 | 2020-07-30 | tbd | tbd |
 
 # 2019 Sessions
