@@ -21,7 +21,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2020-05-28 | Alessio Sclocco | News roundup |
 | 2020-06-18 | Victor Azizi and Gijs van den Oord | Medina, atmospheric chemistry on the GPU |
 | 2020-07-09 | Sagar Dolas (Surf) | The future of Supercomputing |
-| 2020-07-30 | tbd | tbd |
+| 2020-07-30 | meeting cancelled | Summer holidays |
 
 # 2019 Sessions
 
