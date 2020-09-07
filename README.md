@@ -21,7 +21,12 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2020-05-28 | Alessio Sclocco | News roundup |
 | 2020-06-18 | Victor Azizi and Gijs van den Oord | Medina, atmospheric chemistry on the GPU |
 | 2020-07-09 | Sagar Dolas (Surf) | The future of Supercomputing |
-| 2020-07-30 | meeting cancelled | Summer holidays |
+| 2020-09-10 | Dennis Klein (Student VU) | Survey of optimization methods for auto-tuning energy efficiency |
+| 2020-10-01 | tbd | tbd |
+| 2020-10-22 | tbd | tbd |
+| 2020-11-12 | tbd | tbd |
+| 2020-12-03 | tbd | tbd |
+
 
 # 2019 Sessions
 
