@@ -25,7 +25,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2020-10-01 | SIG | Project updates session |
 | 2020-10-22 | Hanno Spreeuw | Parallellisation of kappa, sigma clipping of radio astronomical images by distributing rows of subimages over multiple CPU cores using Ray |
 | 2020-11-12 | Alessio Sclocco | Porting the FESOM 2.0 model to GPUs |
-| 2020-12-03 | tbd | tbd |
+| 2020-12-03 | Frederico Fadda (UvA) | tbd |
 
 
 # 2019 Sessions
