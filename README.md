@@ -8,6 +8,12 @@ If you would like to present or invite an external speaker, please feel free to 
 
 Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencecenter.nl)
 
+# 2021 Sessions
+
+| Date | Presenter | Topic |
+|------|----------------|-------|
+
+
 # 2020 Sessions
 
 | Date | Presenter | Topic |
