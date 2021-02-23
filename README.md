@@ -12,7 +12,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
-| 2021-02-25 | Gijs van den Oord | TBD |
+| 2021-02-25 | Gijs van den Oord | Performance portability: are DSL's the answer? |
 | 2021-03-18 | Hanno Spreeuw | TBD |
 
 # 2020 Sessions
