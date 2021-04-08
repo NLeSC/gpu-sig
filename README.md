@@ -14,7 +14,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 |------|----------------|-------|
 | 2021-02-25 | Gijs van den Oord | Performance portability: are DSL's the answer? |
 | 2021-03-18 | Hanno Spreeuw | Parallellisation of kappa, sigma clipping of subimages from large astronomical maps: Ray vs. Dask |
-| 2021-04-08 | Sven-Bodo Scholz | High-Performance Computing for everyone |
+| 2021-04-08 | Sven-Bodo Scholz (RU) | High-Performance Computing for everyone |
 | 2021-04-29 | Ben van Werkhoven | Auto-tuning research update |
 | 2021-05-20 | tbd | tbd |
 | 2021-06-10 | tbd | tbd |
