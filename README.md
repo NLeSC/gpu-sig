@@ -17,7 +17,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2021-04-08 | Sven-Bodo Scholz (RU) | High-Performance Computing for everyone |
 | 2021-04-29 | Ben van Werkhoven and Floris Jan Willemsen | Auto-tuning research update |
 | 2021-05-20 | SIG | Join an online lecture |
-| 2021-06-10 | tbd | tbd |
+| 2021-06-10 | Alessio Sclocco | GPU Computing carpentry lesson |
 | 2021-07-01 | tbd | tbd |
 
 # 2020 Sessions
