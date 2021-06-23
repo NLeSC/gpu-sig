@@ -18,7 +18,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2021-04-29 | Ben van Werkhoven and Floris Jan Willemsen | Auto-tuning research update |
 | 2021-05-20 | SIG | Join an online lecture |
 | 2021-06-10 | Alessio Sclocco | GPU Computing carpentry lesson |
-| 2021-07-01 | tbd | tbd |
+| 2021-07-01 | Jens Wehner | Brainstorming session: linking eScience engineers and applied mathematicians |
 | 2021-07-22 | Floris-Jan Willemsen | Bayesian Optimization for Auto-Tuning GPU kernels |
 
 # 2020 Sessions
