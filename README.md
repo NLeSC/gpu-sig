@@ -23,7 +23,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2021-09-02 | Alessio & Ben | Preparations for Kernel Tuner tutorial |
 | 2021-09-23 | Niels Drost | SSI Optimize call | 
 | 2021-10-14 | Jens Wehner | GPU parallelisation and scheduling in a quantum chemistry software, a simple attempt | 
-| 2021-11-04 | tbd | tbd | 
+| 2021-11-04 | SIG | Projects update session | 
 | 2021-11-25 | Gijs van den Oord | GPU implementation of the FESOM Ocean model | 
 | 2021-12-16 | tbd | tbd | 
 
