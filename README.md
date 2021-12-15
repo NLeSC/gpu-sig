@@ -1,12 +1,22 @@
 # GPU-SIG: GPU Computing Special Interest Group
 
-The special interest group on GPU Computing of the Netherlands eScience Center comes together roughly every three weeks to share knowledge and experience on the latest research and technological developments relevant to computing. 
+The special interest group on GPU Computing of the Netherlands eScience Center comes together roughly every three weeks to share knowledge and experience on the latest research and technological developments relevant to accelerated computing. 
 
-The meetings are usually centered around a single presentation about GPU-related research or its application within a project. However, we also encourage anyone to present applications that have compute-related performance issues, which allows the group to give advice on how to improve performance and fix performance issues in the code, possibly with GPUs. Occasionally we invite external speakers, for example masters students who did interesting masters projects.
+The meetings are usually centered around a single presentation about GPU-related research or its application within a project. However, we also encourage anyone to present applications that have compute-related performance issues, which allows the group to give advice on how to improve performance and fix performance issues in the code, possibly with GPUs. Occasionally we invite external speakers, for example academic or industry experts, or masters students who did a related masters projects.
 
-If you would like to present or invite an external speaker, please feel free to subscribe for any of the upcoming sessions in the table below.
+If you would like to present or invite an external speaker, please feel free to subscribe for any of the upcoming sessions in the table below using a pull request.
 
 Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencecenter.nl)
+
+# 2022 Sessions
+
+| Date | Presenter | Topic |
+|------|----------------|-------|
+| 2022-01-20 | tbd | tbd |
+| 2022-02-10 | tbd | tbd |
+| 2022-03-03 | tbd | tbd |
+| 2022-03-24 | tbd | tbd |
+| 2022-04-14 | tbd | tbd |
 
 # 2021 Sessions
 
@@ -25,7 +35,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2021-10-14 | Jens Wehner | GPU parallelisation and scheduling in a quantum chemistry software, a simple attempt | 
 | 2021-11-04 | SIG | Projects update session | 
 | 2021-11-25 | Gijs van den Oord | Using OpenACC to accelerate an ocean model | 
-| 2021-12-16 | tbd | tbd | 
+
 
 # 2020 Sessions
 
