@@ -13,7 +13,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | Date | Presenter | Topic |
 |------|----------------|-------|
 | 2022-01-20 | Patrick Bos | SSI call kickoff discussion |
-| 2022-02-10 | tbd | tbd |
+| 2022-02-10 | Ben van Werkhoven | Generic Autotuning Technology for GPU Applications |
 | 2022-03-03 | tbd | tbd |
 | 2022-03-24 | tbd | tbd |
 | 2022-04-14 | tbd | tbd |
