@@ -16,7 +16,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2022-02-10 | Ben van Werkhoven | Generic Autotuning Technology for GPU Applications |
 | 2022-03-03 | Gijs van den Oord | Optimization of the RTE+RRTMGP-C++ library |
 | 2022-03-24 | SIG | OpenSSI Optimization updates |
-| 2022-04-14 | tbd | tbd |
+| 2022-04-14 | Jeff Larkin (NVIDIA) | Introduction to OpenACC |
 
 # 2021 Sessions
 
