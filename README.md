@@ -17,6 +17,8 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2022-03-03 | Gijs van den Oord | Optimization of the RTE+RRTMGP-C++ library |
 | 2022-03-24 | SIG | OpenSSI Optimization updates |
 | 2022-04-14 | Jeff Larkin (NVIDIA) | Introduction to OpenACC |
+| 2022-05-05 | XX | Public holiday |
+| 2022-05-26 | XX | Public holiday |
 | 2022-06-16 | Jeff Larkin (NVIDIA) | Standard language parallelism |
 
 # 2021 Sessions
