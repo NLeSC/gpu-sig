@@ -73,22 +73,16 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
-| 2019-12-12 | Stijn Heldens | Highlights from Supercomputing 2019 |
-| 2019-11-14 | Ben van Werkhoven | Lessons learned in a decade of research software engineering GPU applications |
-| 2019-10-31 | Hanno Spreeuw | Conclusions from running SAGECal on the Nano and Intel Xeon E5-2660v3|
-| 2019-10-10 | Ben van Werkhoven | best practices when benchmarking cuda applications |
-| 2019-09-19 | Hanno Spreeuw | Self-calibration using SAGECal on an NVIDIA Jetson Nano |
-| 2019-08-29 | Ehsan Sharifi (Student VU) | Auto-tuning GPU Kernels for Energy Efficiency |
-| 2019-07-18 | Thom Visser (Student UvA) | Building Predictive Models for Optimal GPU Kernel Configurations |
-| 2019-06-27 | Stephen Swatman (Student UvA) | Performance Engineering in the ATLAS Particle Physics Experiment |
-| 2019-05-16 | Johan Hidding | Inline FFTs and code generators |
-| 2019-04-25 | Hanno Spreeuw | Running your GPU based applications from Singularity containers |
-| 2019-03-21 | Ehsan Sharifi (Student VU) | A survey on solutions for improving energy-efficiency in GPUs |
-| 2019-02-25 | Daan Siepelinga (Student VU) | A performance analysis of auto-tuned matrix multiplication GPU kernels |
 | 2019-01-28 | Souley Madougou | Introduction and overview of earlier GPU-related research |
-
-
-
-
-
-
+| 2019-02-25 | Daan Siepelinga (Student VU) | A performance analysis of auto-tuned matrix multiplication GPU kernels |
+| 2019-03-21 | Ehsan Sharifi (Student VU) | A survey on solutions for improving energy-efficiency in GPUs |
+| 2019-04-25 | Hanno Spreeuw | Running your GPU based applications from Singularity containers |
+| 2019-05-16 | Johan Hidding | Inline FFTs and code generators |
+| 2019-06-27 | Stephen Swatman (Student UvA) | Performance Engineering in the ATLAS Particle Physics Experiment |
+| 2019-07-18 | Thom Visser (Student UvA) | Building Predictive Models for Optimal GPU Kernel Configurations |
+| 2019-08-29 | Ehsan Sharifi (Student VU) | Auto-tuning GPU Kernels for Energy Efficiency |
+| 2019-09-19 | Hanno Spreeuw | Self-calibration using SAGECal on an NVIDIA Jetson Nano |
+| 2019-10-10 | Ben van Werkhoven | best practices when benchmarking cuda applications |
+| 2019-10-31 | Hanno Spreeuw | Conclusions from running SAGECal on the Nano and Intel Xeon E5-2660v3|
+| 2019-11-14 | Ben van Werkhoven | Lessons learned in a decade of research software engineering GPU applications |
+| 2019-12-12 | Stijn Heldens | Highlights from Supercomputing 2019 |
