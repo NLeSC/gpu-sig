@@ -22,7 +22,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2022-06-16 | Jeff Larkin (NVIDIA) | Standard language parallelism |
 | 2022-07-07 | X | eScience center 10 year anniversary  |
 | 2022-07-14 | SIG | OpenSSI Optimization updates |
-| 2022-08-18 | TBD | TBD |
+| 2022-08-18 | X | Summer holidays |
 | 2022-09-08 | TBD | TBD |
 | 2022-09-29 | TBD | TBD |
 | 2022-10-20 | TBD | TBD |
