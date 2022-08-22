@@ -24,7 +24,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2022-07-14 | SIG | OpenSSI Optimization updates |
 | 2022-08-18 | X | Summer holidays |
 | 2022-09-08 | TBD | TBD |
-| 2022-09-29 | TBD | TBD |
+| 2022-09-29 | Tom Deakin (University of Bristol) | SYCL |
 | 2022-10-20 | TBD | TBD |
 | 2022-11-10 | TBD | TBD |
 | 2022-12-01 | TBD | TBD |
