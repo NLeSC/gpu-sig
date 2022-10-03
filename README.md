@@ -25,7 +25,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2022-08-18 | X | Summer holidays |
 | 2022-09-08 | Merijn Verstraaten | Analysis and Prediction of GPU Graph Algorithm Performance (PhD defence @ UvA) |
 | 2022-09-29 | Tom Deakin (University of Bristol) | Introduction to Heterogeneous Programming with SYCL |
-| 2022-10-20 | TBD | TBD |
+| 2022-10-20 | SIG | OpenSSI Optimization updates |
 | 2022-11-10 | Lars van den Haak (TU Eindhoven) | Verifying and Optimizing GPU software using the Domain Specific Language Halide |
 | 2022-12-01 | TBD | TBD |
 | 2022-12-22 | TBD | TBD |
