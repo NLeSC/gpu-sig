@@ -8,6 +8,23 @@ If you would like to present or invite an external speaker, please feel free to 
 
 Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencecenter.nl)
 
+# 2023 Sessions
+
+| Date | Presenter | Topic |
+|------|----------------|-------|
+| 2022-02-16 | Floris-Jan Willemsen | A Methodology for Comparing Auto-Tuning Optimization Algorithms |
+| 2022-03-02 | open | Show and Tell session |
+| 2022-03-16 | tbd | tbd |
+| 2022-03-30 | open | Show and Tell session  |
+| 2022-04-13 | tbd | tbd |
+| 2022-04-28 | open | Show and Tell session  |
+| 2022-05-11 | tbd | tbd |
+| 2022-05-25 | open | Show and Tell session  |
+| 2022-06-08 | tbd | tbd |
+| 2022-06-22 | open | Show and Tell session  |
+| 2022-07-06 | tbd | tbd |
+
+
 # 2022 Sessions
 
 | Date | Presenter | Topic |
@@ -28,7 +45,6 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2022-10-20 | SIG | OpenSSI Optimization updates |
 | 2022-11-10 | Lars van den Haak (TU Eindhoven) | Verifying and Optimizing GPU software using the Domain Specific Language Halide |
 | 2022-12-01 | Stijn Heldens | Kernel Launcher: Integrating Kernel-Tuner into C++ |
-| 2022-12-22 | TBD | TBD |
 
 # 2021 Sessions
 
