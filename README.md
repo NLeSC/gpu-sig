@@ -16,7 +16,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2023-03-02 | SIG | Show and Tell session |
 | 2023-03-16 | tbd | tbd |
 | 2023-03-30 | SIG | Show and Tell session |
-| 2023-04-13 | tbd | tbd |
+| 2023-04-13 | Benjamin Czaja (SURF) | Performance and Energy analysis of Large scale applications on Snellius |
 | 2023-04-27 | X | Public holiday |
 | 2023-05-11 | tbd | tbd |
 | 2023-05-25 | SIG | Show and Tell session |
