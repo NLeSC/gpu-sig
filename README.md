@@ -12,17 +12,17 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
-| 2022-02-16 | Floris-Jan Willemsen | A Methodology for Comparing Auto-Tuning Optimization Algorithms |
-| 2022-03-02 | open | Show and Tell session |
-| 2022-03-16 | tbd | tbd |
-| 2022-03-30 | open | Show and Tell session  |
-| 2022-04-13 | tbd | tbd |
-| 2022-04-28 | open | Show and Tell session  |
-| 2022-05-11 | tbd | tbd |
-| 2022-05-25 | open | Show and Tell session  |
-| 2022-06-08 | tbd | tbd |
-| 2022-06-22 | open | Show and Tell session  |
-| 2022-07-06 | tbd | tbd |
+| 2023-02-16 | Floris-Jan Willemsen | A Methodology for Comparing Auto-Tuning Optimization Algorithms |
+| 2023-03-02 | SIG | Show and Tell session |
+| 2023-03-16 | tbd | tbd |
+| 2023-03-30 | SIG | Show and Tell session |
+| 2023-04-13 | tbd | tbd |
+| 2023-04-27 | X | Public holiday |
+| 2023-05-11 | tbd | tbd |
+| 2023-05-25 | SIG | Show and Tell session |
+| 2023-06-08 | tbd | tbd |
+| 2023-06-22 | SIG | Show and Tell session |
+| 2023-07-06 | tbd | tbd |
 
 
 # 2022 Sessions
