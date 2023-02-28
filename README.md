@@ -18,7 +18,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2023-03-30 | SIG | Scaling data-intensive computations with Dask in the ESMValTool KD project |
 | 2023-04-13 | Benjamin Czaja (SURF) | Performance and Energy analysis of Large scale applications on Snellius |
 | 2023-04-27 | X | Public holiday |
-| 2023-05-11 | tbd | tbd |
+| 2023-05-11 | Jaro Camphuijsen | The environmental impact of High Perfomance Computing in Science |
 | 2023-05-25 | SIG | Show and Tell session |
 | 2023-06-08 | tbd | tbd |
 | 2023-06-22 | SIG | Show and Tell session |
