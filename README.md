@@ -14,8 +14,8 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 |------|----------------|-------|
 | 2023-02-16 | Floris-Jan Willemsen | A Methodology for Comparing Auto-Tuning Optimization Algorithms |
 | 2023-03-02 | SIG | Continuous Integration (CI) and Profiling |
-| 2023-03-16 | tbd | tbd |
-| 2023-03-30 | SIG | Scaling data-intensive computations with Dask in the ESMValTool KD project |
+| 2023-03-16 | Bouwe Andela | Scaling data-intensive computations with Dask in the ESMValTool KD project |
+| 2023-03-30 | SIG | tbd |
 | 2023-04-13 | Benjamin Czaja (SURF) | Performance and Energy analysis of Large scale applications on Snellius |
 | 2023-04-27 | X | Public holiday |
 | 2023-05-11 | Jaro Camphuijsen | The environmental impact of High Perfomance Computing in Science |
