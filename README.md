@@ -22,7 +22,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2023-05-25 | SIG | Show and Tell session |
 | 2023-06-08 | tbd | tbd |
 | 2023-06-22 | SIG | Show and Tell session |
-| 2023-07-06 | tbd | tbd |
+| 2023-07-06 | Milo Lurati | tbd |
 
 
 # 2022 Sessions
