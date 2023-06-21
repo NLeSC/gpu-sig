@@ -21,7 +21,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2023-05-11 | Jaro Camphuijsen | The environmental impact of High Perfomance Computing in Science |
 | 2023-05-25 | Gijs van den Oord | Using OpenACC to accelerate Earth System Models: experiences from ESiWACE2 |
 | 2023-06-08 | Leon Oostrum | Accelerating medical and astronomical beamforming with the RECRUIT project |
-| 2023-06-22 | SIG | Show and Tell session |
+| 2023-06-22 | SIG | Projects update session |
 | 2023-07-06 | Milo Lurati | tbd |
 
 
