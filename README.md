@@ -25,10 +25,10 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2023-07-06 | Milo Lurati | Comparing the Impact & Difficulty of Auto-Tuning on AMD and Nvidia GPUs |
 | 2023-09-21 | Lucas Esclapez | Bringing reactive flow simulations to the ExaScale using Pele |
 | 2023-10-05 | TBD | TBD |
-| 2023-10-26 | TBD | TBD |
-| 2023-11-16 | TBD | TBD |
+| 2023-10-19 | TBD | TBD |
+| 2023-11-02 | TBD | TBD |
 | 2023-11-30 | TBD | TBD |
-| 2023-12-21 | TBD | TBD |
+| 2023-12-14 | TBD | TBD |
 
 # 2022 Sessions
 
