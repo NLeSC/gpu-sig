@@ -23,7 +23,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2023-06-08 | Leon Oostrum | Accelerating medical and astronomical beamforming with the RECRUIT project |
 | 2023-06-22 | SIG | Projects update session |
 | 2023-07-06 | Milo Lurati | Comparing the Impact & Difficulty of Auto-Tuning on AMD and Nvidia GPUs |
-| 2023-09-21 | TBD | TBD |
+| 2023-09-21 | Lucas Esclapez | Bringing reactive flow simulations to the ExaScale using Pele |
 | 2023-10-05 | TBD | TBD |
 | 2023-10-26 | TBD | TBD |
 | 2023-11-16 | TBD | TBD |
