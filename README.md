@@ -23,7 +23,12 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2023-06-08 | Leon Oostrum | Accelerating medical and astronomical beamforming with the RECRUIT project |
 | 2023-06-22 | SIG | Projects update session |
 | 2023-07-06 | Milo Lurati | Comparing the Impact & Difficulty of Auto-Tuning on AMD and Nvidia GPUs |
-
+| 2023-09-21 | TBD | TBD |
+| 2023-10-05 | TBD | TBD |
+| 2023-10-26 | TBD | TBD |
+| 2023-11-16 | TBD | TBD |
+| 2023-11-30 | TBD | TBD |
+| 2023-12-21 | TBD | TBD |
 
 # 2022 Sessions
 
@@ -64,7 +69,6 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2021-11-04 | SIG | Projects update session | 
 | 2021-11-25 | Gijs van den Oord | Using OpenACC to accelerate an ocean model | 
 
-
 # 2020 Sessions
 
 | Date | Presenter | Topic |
@@ -83,7 +87,6 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2020-10-22 | Hanno Spreeuw | Parallellisation of kappa, sigma clipping of radio astronomical images by distributing rows of subimages over multiple CPU cores using Ray |
 | 2020-11-12 | Alessio Sclocco | Porting the FESOM 2.0 model to GPUs |
 | 2020-12-03 | Federico Fadda (UvA) | GPU simulation of active Brownian particle interactions via the Lennard-Jones force |
-
 
 # 2019 Sessions
 
