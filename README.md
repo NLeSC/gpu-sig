@@ -6,7 +6,7 @@ The meetings are usually centered around a single presentation about GPU-related
 
 If you would like to present or invite an external speaker, please feel free to subscribe for any of the upcoming sessions in the table below using a pull request.
 
-Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencecenter.nl)
+Contact persons: Alessio Sclocco (a.sclocco@esciencecenter.nl)
 
 # 2023 Sessions
 
@@ -24,7 +24,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2023-06-22 | SIG | Projects update session |
 | 2023-07-06 | Milo Lurati | Comparing the Impact & Difficulty of Auto-Tuning on AMD and Nvidia GPUs |
 | 2023-09-21 | Lucas Esclapez | Bringing reactive flow simulations to the ExaScale using Pele |
-| 2023-10-05 | TBD | TBD |
+| 2023-10-05 | Ömer Şakar (UT Twente) | Alpinist: an Annotation-Aware GPU Program Optimizer |
 | 2023-10-19 | TBD | TBD |
 | 2023-11-02 | TBD | TBD |
 | 2023-11-30 | TBD | TBD |
@@ -81,7 +81,7 @@ Contact persons: Alessio Sclocco and Ben van Werkhoven (b.vanwerkhoven@esciencec
 | 2020-05-07 | Ben van Werkhoven | Auto-tuning research update |
 | 2020-05-28 | Alessio Sclocco | News roundup |
 | 2020-06-18 | Victor Azizi and Gijs van den Oord | Medina, atmospheric chemistry on the GPU |
-| 2020-07-09 | Sagar Dolas (Surf) | The future of Supercomputing |
+| 2020-07-09 | Sagar Dolas (SURF) | The future of Supercomputing |
 | 2020-09-10 | Dennis Klein (Student VU) | Survey of optimization methods for auto-tuning energy efficiency |
 | 2020-10-01 | SIG | Project updates session |
 | 2020-10-22 | Hanno Spreeuw | Parallellisation of kappa, sigma clipping of radio astronomical images by distributing rows of subimages over multiple CPU cores using Ray |
