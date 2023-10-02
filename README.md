@@ -36,7 +36,6 @@ Contact persons: Alessio Sclocco (a.sclocco@esciencecenter.nl)
 | 2023-03-16 | Bouwe Andela | Scaling data-intensive computations with Dask in the ESMValTool KD project |
 | 2023-03-30 | SIG | Profiling GPU applications |
 | 2023-04-13 | Benjamin Czaja (SURF) | Performance and Energy analysis of Large scale applications on Snellius |
-| 2023-04-27 | X | Public holiday |
 | 2023-05-11 | Jaro Camphuijsen | The environmental impact of High Perfomance Computing in Science |
 | 2023-05-25 | Gijs van den Oord | Using OpenACC to accelerate Earth System Models: experiences from ESiWACE2 |
 | 2023-06-08 | Leon Oostrum | Accelerating medical and astronomical beamforming with the RECRUIT project |
@@ -46,7 +45,7 @@ Contact persons: Alessio Sclocco (a.sclocco@esciencecenter.nl)
 | 2023-10-05 | Ömer Şakar (UT Twente) | Alpinist: an Annotation-Aware GPU Program Optimizer |
 | 2023-10-19 | TBD | TBD |
 | 2023-11-02 | TBD | TBD |
-| 2023-11-30 | TBD | TBD |
+| 2023-11-30 | Stijn Heldens | Kernel Float: Auto-tuning mixed precision GPU kernels |
 | 2023-12-14 | TBD | TBD |
 
 # 2022 Sessions
@@ -58,12 +57,8 @@ Contact persons: Alessio Sclocco (a.sclocco@esciencecenter.nl)
 | 2022-03-03 | Gijs van den Oord | Optimization of the RTE+RRTMGP-C++ library |
 | 2022-03-24 | SIG | OpenSSI Optimization updates |
 | 2022-04-14 | Jeff Larkin (NVIDIA) | Introduction to OpenACC |
-| 2022-05-05 | X | Public holiday |
-| 2022-05-26 | X | Public holiday |
 | 2022-06-16 | Jeff Larkin (NVIDIA) | Standard language parallelism |
-| 2022-07-07 | X | eScience center 10 year anniversary  |
 | 2022-07-14 | SIG | OpenSSI Optimization updates |
-| 2022-08-18 | X | Summer holidays |
 | 2022-09-08 | Merijn Verstraaten | Analysis and Prediction of GPU Graph Algorithm Performance (PhD defence @ UvA) |
 | 2022-09-29 | Tom Deakin (University of Bristol) | Introduction to Heterogeneous Programming with SYCL |
 | 2022-10-20 | SIG | OpenSSI Optimization updates |
@@ -78,7 +73,6 @@ Contact persons: Alessio Sclocco (a.sclocco@esciencecenter.nl)
 | 2021-03-18 | Hanno Spreeuw | Parallellisation of kappa, sigma clipping of subimages from large astronomical maps: Ray vs. Dask |
 | 2021-04-08 | Sven-Bodo Scholz (RU) | High-Performance Computing for everyone |
 | 2021-04-29 | Ben van Werkhoven and Floris Jan Willemsen | Auto-tuning research update |
-| 2021-05-20 | SIG | Join an online lecture |
 | 2021-06-10 | Alessio Sclocco | GPU Computing carpentry lesson |
 | 2021-07-01 | Jens Wehner | Brainstorming session: linking eScience engineers and applied mathematicians |
 | 2021-07-22 | Floris-Jan Willemsen | Bayesian Optimization for Auto-Tuning GPU kernels |
@@ -96,7 +90,6 @@ Contact persons: Alessio Sclocco (a.sclocco@esciencecenter.nl)
 | 2020-02-13 | Felipe Zapata | An Eigen-Cuda interface for Tensor-matrix multiplications |
 | 2020-03-05 | Ben van Werkhoven | New features in CUDA |
 | 2020-03-26 | Alessio Sclocco | GPU workshops/hackatons/trainings |
-| 2020-04-16 | meeting cancelled |  |
 | 2020-05-07 | Ben van Werkhoven | Auto-tuning research update |
 | 2020-05-28 | Alessio Sclocco | News roundup |
 | 2020-06-18 | Victor Azizi and Gijs van den Oord | Medina, atmospheric chemistry on the GPU |
