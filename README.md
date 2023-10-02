@@ -8,6 +8,25 @@ If you would like to present or invite an external speaker, please feel free to 
 
 Contact persons: Alessio Sclocco (a.sclocco@esciencecenter.nl)
 
+# 2024 Sessions
+
+| Date | Presenter | Topic |
+|------|----------------|-------|
+| 2023-01-25 | TBD | TBD |
+| 2023-02-08 | TBD | TBD |
+| 2023-02-22 | TBD | TBD |
+| 2023-03-07 | TBD | TBD |
+| 2023-03-21 | TBD | TBD |
+| 2023-04-04 | TBD | TBD |
+| 2023-04-18 | TBD | TBD |
+| 2023-05-02 | TBD | TBD |
+| 2023-05-16 | TBD | TBD |
+| 2023-05-30 | TBD | TBD |
+| 2023-06-13 | TBD | TBD |
+| 2023-06-27 | TBD | TBD |
+| 2023-07-11 | TBD | TBD |
+
+
 # 2023 Sessions
 
 | Date | Presenter | Topic |
