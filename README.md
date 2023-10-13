@@ -6,13 +6,15 @@ The meetings are usually centered around a single presentation about GPU-related
 
 If you would like to present or invite an external speaker, please feel free to subscribe for any of the upcoming sessions in the table below using a pull request.
 
-Contact persons: Alessio Sclocco (a.sclocco@esciencecenter.nl)
+Contact persons:
+Alessio Sclocco (a.sclocco@esciencecenter.nl),
+Stijn Heldens (s.heldens@esciencecenter.nl)
 
 # 2024 Sessions
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
-| 2023-01-25 | TBD | TBD |
+| 2023-01-25 | Tim Besard | Introduction to GPU programming in Julia |
 | 2023-02-08 | TBD | TBD |
 | 2023-02-22 | TBD | TBD |
 | 2023-03-07 | TBD | TBD |
