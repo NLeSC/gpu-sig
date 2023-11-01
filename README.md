@@ -14,7 +14,7 @@ Stijn Heldens (s.heldens@esciencecenter.nl)
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
-| 2024-01-25 | Tim Besard | Introduction to GPU programming in Julia |
+| 2024-01-25 | Tim Besard (JuliaHub) | Introduction to GPU programming in Julia |
 | 2024-02-08 | TBD | TBD |
 | 2024-02-22 | TBD | TBD |
 | 2024-03-07 | TBD | TBD |
@@ -46,7 +46,7 @@ Stijn Heldens (s.heldens@esciencecenter.nl)
 | 2023-09-21 | Lucas Esclapez | Bringing reactive flow simulations to the ExaScale using Pele |
 | 2023-10-05 | Ömer Şakar (UT Twente) | Alpinist: an Annotation-Aware GPU Program Optimizer |
 | 2023-10-19 | TBD | TBD |
-| 2023-11-02 | TBD | TBD |
+| 2023-11-02 | SIG | ESiWACE3 Hackathon and MPI PotreeConverter |
 | 2023-11-30 | Stijn Heldens | Kernel Float: Auto-tuning mixed precision GPU kernels |
 | 2023-12-14 | TBD | TBD |
 
