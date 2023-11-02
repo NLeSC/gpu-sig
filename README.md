@@ -48,7 +48,7 @@ Stijn Heldens (s.heldens@esciencecenter.nl)
 | 2023-10-19 | TBD | TBD |
 | 2023-11-02 | SIG | ESiWACE3 Hackathon and MPI PotreeConverter |
 | 2023-11-30 | Stijn Heldens | Kernel Float: Auto-tuning mixed precision GPU kernels |
-| 2023-12-14 | TBD | TBD |
+| 2023-12-14 | Richard Schoonhoven (CWI) | Going green: optimizing GPUs for energy efficiency through model-steered auto-tuning |
 
 # 2022 Sessions
 
