@@ -15,7 +15,7 @@ Stijn Heldens (s.heldens@esciencecenter.nl)
 | Date | Presenter | Topic |
 |------|----------------|-------|
 | 2024-01-25 | Tim Besard (JuliaHub) | Introduction to GPU programming in Julia |
-| 2024-02-08 | TBD | TBD |
+| 2024-02-08 | Hanno Spreeuw | Porting the Python Source Extractor (PySE) to GPU without writing a single kernel |
 | 2024-02-22 | TBD | TBD |
 | 2024-03-07 | TBD | TBD |
 | 2024-03-21 | TBD | TBD |
