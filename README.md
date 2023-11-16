@@ -7,8 +7,8 @@ The meetings are usually centered around a single presentation about GPU-related
 If you would like to present or invite an external speaker, please feel free to subscribe for any of the upcoming sessions in the table below using a pull request.
 
 Contact persons:
-Alessio Sclocco (a.sclocco@esciencecenter.nl),
-Stijn Heldens (s.heldens@esciencecenter.nl)
+* Alessio Sclocco (a.sclocco@esciencecenter.nl)
+* Stijn Heldens (s.heldens@esciencecenter.nl)
 
 # 2024 Sessions
 
@@ -16,7 +16,7 @@ Stijn Heldens (s.heldens@esciencecenter.nl)
 |------|----------------|-------|
 | 2024-01-25 | Tim Besard (JuliaHub) | Introduction to GPU programming in Julia |
 | 2024-02-08 | Hanno Spreeuw | Porting the Python Source Extractor (PySE) to GPU without writing a single kernel |
-| 2024-02-22 | TBD | TBD |
+| 2024-02-22 | Richard Schoonhoven (CWI) | Going green: optimizing GPUs for energy efficiency through model-steered auto-tuning |
 | 2024-03-07 | TBD | TBD |
 | 2024-03-21 | TBD | TBD |
 | 2024-04-04 | TBD | TBD |
@@ -45,10 +45,9 @@ Stijn Heldens (s.heldens@esciencecenter.nl)
 | 2023-07-06 | Milo Lurati | Comparing the Impact & Difficulty of Auto-Tuning on AMD and Nvidia GPUs |
 | 2023-09-21 | Lucas Esclapez | Bringing reactive flow simulations to the ExaScale using Pele |
 | 2023-10-05 | Ömer Şakar (UT Twente) | Alpinist: an Annotation-Aware GPU Program Optimizer |
-| 2023-10-19 | TBD | TBD |
+| 2023-10-19 | Gijs van den Oord | GPU optimizations in the proton structure project |
 | 2023-11-02 | SIG | ESiWACE3 Hackathon and MPI PotreeConverter |
 | 2023-11-30 | Stijn Heldens | Kernel Float: Auto-tuning mixed precision GPU kernels |
-| 2023-12-14 | Richard Schoonhoven (CWI) | Going green: optimizing GPUs for energy efficiency through model-steered auto-tuning |
 
 # 2022 Sessions
 
