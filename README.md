@@ -22,7 +22,7 @@ Contact persons:
 | 2024-04-04 | Leon Oostrum | Making your CUDA life easier with cudawrappers |
 | 2024-04-18 | TBD | TBD |
 | 2024-05-02 | TBD | TBD |
-| 2024-05-16 | TBD | TBD |
+| 2024-05-16 | Alessio Sclocco | Auto-tuning OpenACC applications |
 | 2024-05-30 | TBD | TBD |
 | 2024-06-13 | Hanno Spreeuw | Follow-up on February 8 talk, but with an extra challenge: calling into C-libraries from guvectorized Python code. |
 | 2024-06-27 | SIG | ESiWACE3 Hackathon |
