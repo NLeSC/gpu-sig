@@ -20,7 +20,7 @@ Contact persons:
 | 2024-03-06 | Stijn Heldens | Parallel programming systems for scalable scientific computing |
 | 2024-03-21 | SIG | Highlights from GTC 2024 |
 | 2024-04-04 | Leon Oostrum | Making your CUDA life easier with cudawrappers |
-| 2024-05-02 | TBD | TBD |
+| 2024-05-02 | SIG | Project update session |
 | 2024-05-16 | Alessio Sclocco | Auto-tuning OpenACC applications |
 | 2024-05-30 | TBD | TBD |
 | 2024-06-13 | Hanno Spreeuw | From cudawrappers to HIPwrappers |
