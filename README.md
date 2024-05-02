@@ -21,8 +21,8 @@ Contact persons:
 | 2024-03-21 | SIG | Highlights from GTC 2024 |
 | 2024-04-04 | Leon Oostrum | Making your CUDA life easier with cudawrappers |
 | 2024-05-02 | SIG | Project update session |
-| 2024-05-16 | Alessio Sclocco | Auto-tuning OpenACC applications |
-| 2024-05-30 | TBD | TBD |
+| 2024-05-16 | Denis Kumar (Student VU) | Auto-tuning OpenMP GPU applications |
+| 2024-05-30 | Alessio Sclocco | Auto-tuning OpenACC applications |
 | 2024-06-13 | Hanno Spreeuw | From cudawrappers to HIPwrappers |
 | 2024-06-27 | SIG | Report on second ESiWACE3 hackathon |
 | 2024-07-11 | TBD | TBD |
@@ -41,7 +41,7 @@ Contact persons:
 | 2023-05-25 | Gijs van den Oord | Using OpenACC to accelerate Earth System Models: experiences from ESiWACE2 |
 | 2023-06-08 | Leon Oostrum | Accelerating medical and astronomical beamforming with the RECRUIT project |
 | 2023-06-22 | SIG | Projects update session |
-| 2023-07-06 | Milo Lurati | Comparing the Impact & Difficulty of Auto-Tuning on AMD and Nvidia GPUs |
+| 2023-07-06 | Milo Lurati (Student VU) | Comparing the Impact & Difficulty of Auto-Tuning on AMD and Nvidia GPUs |
 | 2023-09-21 | Lucas Esclapez | Bringing reactive flow simulations to the ExaScale using Pele |
 | 2023-10-05 | Ömer Şakar (UT Twente) | Alpinist: an Annotation-Aware GPU Program Optimizer |
 | 2023-10-19 | Gijs van den Oord | GPU optimizations in the proton structure project |
