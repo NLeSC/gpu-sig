@@ -23,7 +23,7 @@ Contact persons:
 | 2024-05-02 | SIG | Project update session |
 | 2024-05-16 | Denis Kumar (Student VU) | Auto-tuning OpenMP GPU applications |
 | 2024-05-30 | Alessio Sclocco | Auto-tuning OpenACC applications |
-| 2024-06-13 | TBD | TBD |
+| 2024-06-13 | Alessio Sclocco and Stijn Heldens | KMM: a lightweight C++ middleware for accelerated computing |
 | 2024-06-27 | Hanno Spreeuw | From cudawrappers to HIPwrappers |
 | 2024-07-11 | SIG | Report on second ESiWACE3 hackathon |
 
