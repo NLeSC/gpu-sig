@@ -27,8 +27,8 @@ Contact persons:
 | 2024-06-27 | Hanno Spreeuw | From cudawrappers to HIPwrappers |
 | 2024-07-11 | SIG | Report on second ESiWACE3 hackathon |
 | 2024-08-15 | Denis Kumar (Student VU) | Optimizing GPU Performance with OpenMP: An Advanced Auto-Tuning Framework Utilizing Kernel Tuner |
-| 2024-09-26 | -- | -- |
-| 2024-10-10 | -- | -- |
+| 2024-09-26 | Stijn Heldens | Bringing Auto-Tuning to HIP: Analysis of Tuning Impact and Difficulty on AMD and Nvidia GPUs |
+| 2024-10-10 | SIG | Testing of GPU code |
 | 2024-10-24 | -- | -- |
 | 2024-11-07 | -- | -- |
 | 2024-11-21 | -- | -- |
