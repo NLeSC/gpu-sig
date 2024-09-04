@@ -28,7 +28,7 @@ Contact persons:
 | 2024-07-11 | SIG | Report on second ESiWACE3 hackathon |
 | 2024-08-15 | Denis Kumar (Student VU) | Optimizing GPU Performance with OpenMP: An Advanced Auto-Tuning Framework Utilizing Kernel Tuner |
 | 2024-09-26 | Stijn Heldens | Bringing Auto-Tuning to HIP: Analysis of Tuning Impact and Difficulty on AMD and Nvidia GPUs |
-| 2024-10-10 | -- | -- |
+| 2024-10-10 | Hanno Spreeuw | Real-time processing of 4K * 4K images from the Square Kilometre Array on a single core of a high-end CPU |
 | 2024-10-24 | SIG | Testing of GPU code |
 | 2024-11-07 | -- | -- |
 | 2024-11-21 | -- | -- |
