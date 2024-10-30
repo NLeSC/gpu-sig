@@ -32,7 +32,7 @@ Contact persons:
 | 2024-10-24 | Ariana Torres-Knoop | Quantum computers in HPC centers |
 | 2024-11-07 | SIG | Testing of GPU code |
 | 2024-11-21 | -- | -- |
-| 2024-12-05 | -- | -- |
+| 2024-12-05 | Lucas Esclapez | TBA |
 | 2024-12-19 | -- | -- |
 
 
