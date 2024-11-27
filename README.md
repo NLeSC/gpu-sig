@@ -10,6 +10,8 @@ Contact persons:
 * Alessio Sclocco (a.sclocco@esciencecenter.nl)
 * Stijn Heldens (s.heldens@esciencecenter.nl)
 
+# 2025 Sessions
+
 # 2024 Sessions
 
 | Date | Presenter | Topic |
