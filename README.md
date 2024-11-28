@@ -35,7 +35,7 @@ Contact persons:
 | 2024-11-07 | SIG | Testing of GPU code |
 | 2024-11-21 | SIG | Joint meeting with SURF |
 | 2024-12-05 | Lucas Esclapez | TBA |
-| 2024-12-19 | -- | -- |
+| 2024-12-19 | Ivy Wang (Student UvA/VU) | Multi-GPU Implementation in MRI Reconstruction |
 
 
 # 2023 Sessions
