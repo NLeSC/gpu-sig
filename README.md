@@ -34,7 +34,7 @@ Contact persons:
 | 2024-10-24 | Ariana Torres-Knoop (SURF) | Quantum computers in HPC centers |
 | 2024-11-07 | SIG | Testing of GPU code |
 | 2024-11-21 | SIG | Joint meeting with SURF |
-| 2024-12-05 | Lucas Esclapez | TBA |
+| 2024-12-05 | Lucas Esclapez | OpenACC directives tuning with Kernel Tuner: application to DALES |
 | 2024-12-19 | Ivy Wang (Student UvA/VU) | Multi-GPU Implementation in MRI Reconstruction |
 
 
