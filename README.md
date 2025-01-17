@@ -14,6 +14,20 @@ Contact persons:
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
+| 2025-01-30 | TBD | TBD |
+| 2025-02-13 | TBD | TBD |
+| 2025-02-27 | TBD | TBD |
+| 2025-03-13 | TBD | TBD |
+| 2025-03-27 | TBD | TBD |
+| 2025-04-10 | TBD | TBD |
+| 2025-04-24 | TBD | TBD |
+| 2025-05-08 | TBD | TBD |
+| 2025-05-22 | TBD | TBD |
+| 2025-06-05 | TBD | TBD |
+| 2025-06-19 | TBD | TBD |
+| 2025-07-03 | TBD | TBD |
+| 2025-07-17 | TBD | TBD |
+| 2025-07-31 | TBD | TBD |
 
 # 2024 Sessions
 
