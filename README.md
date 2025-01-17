@@ -16,7 +16,7 @@ Contact persons:
 |------|----------------|-------|
 | 2025-01-30 | TBD | TBD |
 | 2025-02-13 | TBD | TBD |
-| 2025-02-27 | TBD | TBD |
+| 2025-02-27 | Lourens Veen | Managing multiple processes in a single SLURM allocation |
 | 2025-03-13 | TBD | TBD |
 | 2025-03-27 | TBD | TBD |
 | 2025-04-10 | TBD | TBD |
