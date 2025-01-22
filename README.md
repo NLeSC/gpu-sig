@@ -14,7 +14,7 @@ Contact persons:
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
-| 2025-01-30 | TBD | TBD |
+| 2025-01-30 | SIG | Update and planning session |
 | 2025-02-13 | TBD | TBD |
 | 2025-02-27 | Lourens Veen | Managing multiple processes in a single SLURM allocation |
 | 2025-03-13 | TBD | TBD |
