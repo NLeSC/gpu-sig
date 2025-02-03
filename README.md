@@ -19,7 +19,7 @@ Contact persons:
 | 2025-02-27 | Lourens Veen | Managing multiple processes in a single SLURM allocation |
 | 2025-03-13 | TBD | TBD |
 | 2025-03-27 | TBD | TBD |
-| 2025-04-10 | TBD | TBD |
+| 2025-04-10 | Stefan Verhoeven | Containers for testing HPC and grid |
 | 2025-04-24 | Tuna Kalayci (Leiden University) | Archēbot: An Attempt for a Swarm Robotic System for Archaeological Fieldwork |
 | 2025-05-08 | TBD | TBD |
 | 2025-05-22 | TBD | TBD |
