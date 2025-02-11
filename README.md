@@ -15,7 +15,7 @@ Contact persons:
 | Date | Presenter | Topic |
 |------|----------------|-------|
 | 2025-01-30 | SIG | Update and planning session |
-| 2025-02-13 | TBD | TBD |
+| 2025-02-13 | Alessio Sclocco and Stijn Heldens | Update on KMM version 0.3 |
 | 2025-03-13 | Lourens Veen | Managing multiple processes in a single SLURM allocation |
 | 2025-03-27 | Leon Oostrum | Vendor-agnostic host code with gpuwrappers |
 | 2025-04-10 | Stefan Verhoeven | Containers for testing HPC and grid |
